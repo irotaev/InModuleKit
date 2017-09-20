@@ -1,0 +1,6 @@
+[submodule "InModuleKit_Server"]
+	path = InModuleKit_Server
+	url = ../InModuleKit_Server.git
+[submodule "InModuleKit_Client"]
+	path = InModuleKit_Client
+	url = ../InModuleKit_Client.git
